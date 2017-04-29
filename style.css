@@ -1589,20 +1589,20 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #13DAEC;
+  color: #2980b9;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
   transition: color .15s ease; }
 
 .reveal a:hover {
-  color: #71e9f4;
+  color: #2c3e50;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #0d99a5; }
+  background: #e74c3c; }
 
 /*********************************************
  * IMAGES
