@@ -44,8 +44,8 @@ body {
 body {
   position: relative;
   line-height: 1;
-  background-color: #fff;
-  color: #000; }
+  background-color: #ecf0f1;
+  color: #7f8c8d; }
 
 /*********************************************
  * VIEW FRAGMENTS
@@ -145,22 +145,22 @@ body {
   visibility: inherit; }
 
 .reveal .slides section .fragment.highlight-red.visible {
-  color: #ff2c2d; }
+  color: #e74c3c; }
 
 .reveal .slides section .fragment.highlight-green.visible {
-  color: #17ff2e; }
+  color: #2ecc71; }
 
 .reveal .slides section .fragment.highlight-blue.visible {
-  color: #1b91ff; }
+  color: #2980b9; }
 
 .reveal .slides section .fragment.highlight-current-red.current-fragment {
-  color: #ff2c2d; }
+  color: #c0392b; }
 
 .reveal .slides section .fragment.highlight-current-green.current-fragment {
-  color: #17ff2e; }
+  color: #27ae60; }
 
 .reveal .slides section .fragment.highlight-current-blue.current-fragment {
-  color: #1b91ff; }
+  color: #2c3e50; }
 
 /*********************************************
  * DEFAULT ELEMENT STYLES
@@ -266,7 +266,7 @@ body {
   bottom: 0;
   left: 0;
   z-index: 10;
-  background-color: rgba(0, 0, 0, 0.2); }
+  background-color: rgba(231, 76, 60, 0.2); }
 
 .reveal .progress:after {
   content: '';
